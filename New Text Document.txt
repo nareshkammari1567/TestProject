@@ -1,0 +1,14 @@
+fdsfdfsdf
+
+//sort by age
+
+
+employees.stream().sorted(Comparator.comparing(Employee e)e->e.getId()).collect(Collectors.toList());
+
+
+employees.stream().sorted(Comparator.comparing((Employee e)->e.getId()).collect(Collectors.toList());
+
+employees.steam().sotred(comparator.comparing((Employee e)e->e.getId().thencomparing((Employee e)->e.getId)).collect(Collectors.toList());
+
+
+Integer i=Arrays.strea().max();

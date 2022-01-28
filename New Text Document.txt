@@ -12,3 +12,9 @@ employees.steam().sotred(comparator.comparing((Employee e)e->e.getId().thencompa
 
 
 Integer i=Arrays.strea().max();
+
+
+
+
+
+---------------------------------------------------------------------------
